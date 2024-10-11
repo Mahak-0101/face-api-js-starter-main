@@ -26,8 +26,8 @@ window.addEventListener('load', async function() {
 
         // Example roll numbers and their associated image files
         const rollNumbers = {
-            "Roll No: 1": './stored-images/22049C04034.jpg', // Add actual roll numbers and file paths
-             "Roll No: 2": './stored-images/22049C04048.jpg', 
+            "Roll No: 22049C04034": './stored-images/22049C04034.jpg', // Add actual roll numbers and file paths
+             "Roll No: 22049C04048": './stored-images/22049C04048.jpg', 
             // Add more roll numbers and corresponding image paths as needed
         };
 
